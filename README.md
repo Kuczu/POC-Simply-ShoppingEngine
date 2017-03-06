@@ -13,5 +13,5 @@ g++ -std=c++11 -o shoppingEng shoppingEng.cpp
 Aby uruchomić program należy jako argument podać plik "z bazą".
 
 ```
-hoppingEng.exe test.txt
+shoppingEng.exe test.txt
 ```
