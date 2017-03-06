@@ -1,0 +1,10 @@
+CZYSTOSC:mydlo:2:2
+ZYWNOSC:chleb:2:4.00
+ZYWNOSC:chleb:2:4.00
+ZYWNOSC:woda mineralna:1:1.50
+CZYSTOSC:mydlo:2:2
+ZYWNOSC:jablka:1 kg:2.50
+ZYWNOSC:chleb:2:4.00
+ZYWNOSC:woda mineralna:1:1.50
+CZYSTOSC:mydlo:2:2
+dom:recznik:2 sztuk:12.00
